@@ -1,0 +1,9 @@
+D:\Stuff\Converter3\Converter3\bin\Debug\Converter3.exe.config
+D:\Stuff\Converter3\Converter3\bin\Debug\Converter3.exe
+D:\Stuff\Converter3\Converter3\bin\Debug\Converter3.pdb
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.csprojResolveAssemblyReference.cache
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.Form1.resources
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.Properties.Resources.resources
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.csproj.GenerateResource.Cache
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.exe
+D:\Stuff\Converter3\Converter3\obj\Debug\Converter3.pdb
